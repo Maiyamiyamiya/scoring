@@ -27,7 +27,7 @@ import {UserAuthContextProvider} from "./context/UserAuthContext";
 import ProtectedRoute from "./components/ProtectedRoute";
 
 
-function App() {  
+const App = () => {  
 
   return (
     <div className="App">
@@ -161,10 +161,3 @@ function App() {
 }
 
 export default App;
-
-// import Semua from "./Semua"
-// const App = () => {
-//   return (
-//     <Semua/>
-//     )
-// }
