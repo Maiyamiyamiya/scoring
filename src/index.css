@@ -1,0 +1,23 @@
+body, html {
+  margin: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  /*background-color: rosybrown;*/
+  background-image: url(./images/board.png);
+  height: 100vh;
+  background-size: cover;
+  /*background-repeat: no-repeat;*/
+  /*color: #FFF;*/
+}
+
+.App {
+  text-align: center;
+}
+
+.button1{
+  font-family: 'Trebuchet MS';
+  background-color: #000;
+  font-weight: bolder;
+  font-size: 19px;
+  opacity: 0.9;
+  color: #FFF; 
+}
