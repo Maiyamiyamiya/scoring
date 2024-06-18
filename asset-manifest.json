@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/scoring/static/css/main.116a5ff8.css",
-    "main.js": "/scoring/static/js/main.123897f0.js",
-    "static/media/karate.jpg": "/scoring/static/media/karate.e21284834fd0e1aab1dd.jpg",
-    "static/media/bupati.png": "/scoring/static/media/bupati.5ccbd9d39a3686115a80.png",
-    "static/media/forki.png": "/scoring/static/media/forki.1ab34e47b77db2e36fca.png",
-    "static/media/logo_loteng.png": "/scoring/static/media/logo_loteng.47dae33b534d7da2904d.png",
-    "static/media/o2sn.png": "/scoring/static/media/o2sn.9bda54446cfd26ddc54d.png",
-    "index.html": "/scoring/index.html",
-    "main.116a5ff8.css.map": "/scoring/static/css/main.116a5ff8.css.map",
-    "main.123897f0.js.map": "/scoring/static/js/main.123897f0.js.map"
+    "main.css": "/static/css/main.116a5ff8.css",
+    "main.js": "/static/js/main.714d734e.js",
+    "static/media/karate.jpg": "/static/media/karate.e21284834fd0e1aab1dd.jpg",
+    "static/media/bupati.png": "/static/media/bupati.5ccbd9d39a3686115a80.png",
+    "static/media/forki.png": "/static/media/forki.1ab34e47b77db2e36fca.png",
+    "static/media/logo_loteng.png": "/static/media/logo_loteng.47dae33b534d7da2904d.png",
+    "static/media/o2sn.png": "/static/media/o2sn.9bda54446cfd26ddc54d.png",
+    "index.html": "/index.html",
+    "main.116a5ff8.css.map": "/static/css/main.116a5ff8.css.map",
+    "main.714d734e.js.map": "/static/js/main.714d734e.js.map"
   },
   "entrypoints": [
     "static/css/main.116a5ff8.css",
-    "static/js/main.123897f0.js"
+    "static/js/main.714d734e.js"
   ]
 }
