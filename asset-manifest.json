@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.88af2f66.css",
-    "main.js": "/static/js/main.eb246eef.js",
+    "main.js": "/static/js/main.dc112a41.js",
     "static/media/satu.PNG": "/static/media/satu.0d11075214d2bdd3d9e9.PNG",
     "static/media/logo_strok.png": "/static/media/logo_strok.702be271bba9946a6d1f.png",
     "static/media/forki.png": "/static/media/forki.1ab34e47b77db2e36fca.png",
@@ -9,10 +9,10 @@
     "static/media/bk.jpg": "/static/media/bk.1a4ab769c9039e0ccdcd.jpg",
     "index.html": "/index.html",
     "main.88af2f66.css.map": "/static/css/main.88af2f66.css.map",
-    "main.eb246eef.js.map": "/static/js/main.eb246eef.js.map"
+    "main.dc112a41.js.map": "/static/js/main.dc112a41.js.map"
   },
   "entrypoints": [
     "static/css/main.88af2f66.css",
-    "static/js/main.eb246eef.js"
+    "static/js/main.dc112a41.js"
   ]
 }
